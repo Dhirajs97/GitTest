@@ -1,0 +1,385 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WordsHeavenPrj.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WordsHeavenPrj.givegi2txm.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\audiobookcovers\\120dcb4d-b7e7-4e85-b7cb-e9d1e3730a8c_lovefriendship.jpg",
+      "PackagePath": "staticwebassets\\audiobookcovers\\120dcb4d-b7e7-4e85-b7cb-e9d1e3730a8c_lovefriendship.jpg"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\audiobookcovers\\1e6c3668-0dcb-4118-a6cd-d10c3eabf5ba_lovefriendship.jpg",
+      "PackagePath": "staticwebassets\\audiobookcovers\\1e6c3668-0dcb-4118-a6cd-d10c3eabf5ba_lovefriendship.jpg"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\audiobookcovers\\54d53d01-7841-456b-89c1-ba174173d48e_lovefriendship.jpg",
+      "PackagePath": "staticwebassets\\audiobookcovers\\54d53d01-7841-456b-89c1-ba174173d48e_lovefriendship.jpg"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\audiobookcovers\\674e83c3-beb4-43fd-a9fd-c35f6f4151fd_lovefriendship.jpg",
+      "PackagePath": "staticwebassets\\audiobookcovers\\674e83c3-beb4-43fd-a9fd-c35f6f4151fd_lovefriendship.jpg"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\audiobookcovers\\6906835c-b393-4ca3-aafb-32bdfc118ba3_lovefriendship.jpg",
+      "PackagePath": "staticwebassets\\audiobookcovers\\6906835c-b393-4ca3-aafb-32bdfc118ba3_lovefriendship.jpg"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\audiobookcovers\\71a23f7a-b22d-4911-8e99-b8debe0cf1fe_lovefriendship.jpg",
+      "PackagePath": "staticwebassets\\audiobookcovers\\71a23f7a-b22d-4911-8e99-b8debe0cf1fe_lovefriendship.jpg"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\audiobookcovers\\76216b61-35ef-4add-8210-819a9791b91b_lovefriendship.jpg",
+      "PackagePath": "staticwebassets\\audiobookcovers\\76216b61-35ef-4add-8210-819a9791b91b_lovefriendship.jpg"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\audiobookcovers\\7de7b9ad-d061-47fb-a870-87d025e16e28_lovefriendship.jpg",
+      "PackagePath": "staticwebassets\\audiobookcovers\\7de7b9ad-d061-47fb-a870-87d025e16e28_lovefriendship.jpg"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\audiobookcovers\\da56c378-40a9-4cd2-8e2b-8d174e857d1c_the reunion.png",
+      "PackagePath": "staticwebassets\\audiobookcovers\\da56c378-40a9-4cd2-8e2b-8d174e857d1c_the reunion.png"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\audiobooks\\1a73826d-e3a4-4dad-a960-2774a56451c0_love-freindship.mp3",
+      "PackagePath": "staticwebassets\\audiobooks\\1a73826d-e3a4-4dad-a960-2774a56451c0_love-freindship.mp3"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\audiobooks\\27746378-fdb9-40f7-9675-7cfbf9077bb1_love-freindship.mp3",
+      "PackagePath": "staticwebassets\\audiobooks\\27746378-fdb9-40f7-9675-7cfbf9077bb1_love-freindship.mp3"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\audiobooks\\2e0f1973-ee04-42e9-abdc-28edc3d6cf7d_love-freindship.mp3",
+      "PackagePath": "staticwebassets\\audiobooks\\2e0f1973-ee04-42e9-abdc-28edc3d6cf7d_love-freindship.mp3"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\audiobooks\\590d23af-f59a-4f9f-92c2-9bf6564cfebf_love-freindship.mp3",
+      "PackagePath": "staticwebassets\\audiobooks\\590d23af-f59a-4f9f-92c2-9bf6564cfebf_love-freindship.mp3"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\audiobooks\\9f538846-303e-44f0-b281-3f24d8b3149a_love-freindship.mp3",
+      "PackagePath": "staticwebassets\\audiobooks\\9f538846-303e-44f0-b281-3f24d8b3149a_love-freindship.mp3"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\audiobooks\\a42582a9-3b93-48cf-8303-0d4d133457c7_reunion.mp3",
+      "PackagePath": "staticwebassets\\audiobooks\\a42582a9-3b93-48cf-8303-0d4d133457c7_reunion.mp3"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\audiobooks\\ad50d693-bd30-4d94-a3aa-0711ca37b091_love-freindship.mp3",
+      "PackagePath": "staticwebassets\\audiobooks\\ad50d693-bd30-4d94-a3aa-0711ca37b091_love-freindship.mp3"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\audiobooks\\cd9db6ec-a7c5-4a5f-948d-288dff87d29a_love-freindship.mp3",
+      "PackagePath": "staticwebassets\\audiobooks\\cd9db6ec-a7c5-4a5f-948d-288dff87d29a_love-freindship.mp3"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\audiobooks\\fbf8d5b8-0789-463a-baa2-df6a820e3e14_love-freindship.mp3",
+      "PackagePath": "staticwebassets\\audiobooks\\fbf8d5b8-0789-463a-baa2-df6a820e3e14_love-freindship.mp3"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\coverimages\\06a61139-3e1a-40e2-9d1b-9966beec72ad_Atomic_Habits.jpg",
+      "PackagePath": "staticwebassets\\coverimages\\06a61139-3e1a-40e2-9d1b-9966beec72ad_Atomic_Habits.jpg"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\coverimages\\43943ca0-998b-4dea-a86f-072059e4da81_Atomic_Habits.jpg",
+      "PackagePath": "staticwebassets\\coverimages\\43943ca0-998b-4dea-a86f-072059e4da81_Atomic_Habits.jpg"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\coverimages\\c8072e00-5335-418f-8a82-4f7728442822_Atomic_Habits.jpg",
+      "PackagePath": "staticwebassets\\coverimages\\c8072e00-5335-418f-8a82-4f7728442822_Atomic_Habits.jpg"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\coverimages\\f26ba65e-8042-4c57-9bd5-5674cf0e4fe8_JavaEE.JPG",
+      "PackagePath": "staticwebassets\\coverimages\\f26ba65e-8042-4c57-9bd5-5674cf0e4fe8_JavaEE.JPG"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\pdffiles\\4c17c2b6-e82c-4f42-9c02-44badeb25831_Atomic habits ( PDFDrive ).pdf",
+      "PackagePath": "staticwebassets\\pdffiles\\4c17c2b6-e82c-4f42-9c02-44badeb25831_Atomic habits ( PDFDrive ).pdf"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\pdffiles\\9d93ed2f-bb9c-44d7-a4ef-ba28daf492fe_Atomic habits ( PDFDrive ).pdf",
+      "PackagePath": "staticwebassets\\pdffiles\\9d93ed2f-bb9c-44d7-a4ef-ba28daf492fe_Atomic habits ( PDFDrive ).pdf"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\pdffiles\\a0ad2e69-e9ce-4531-b7c4-722179375cbb_Atomic habits ( PDFDrive ).pdf",
+      "PackagePath": "staticwebassets\\pdffiles\\a0ad2e69-e9ce-4531-b7c4-722179375cbb_Atomic habits ( PDFDrive ).pdf"
+    },
+    {
+      "Id": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\wwwroot\\pdffiles\\ddd462b5-3750-44e0-979c-dcc5cc06c7d1_Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf",
+      "PackagePath": "staticwebassets\\pdffiles\\ddd462b5-3750-44e0-979c-dcc5cc06c7d1_Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WordsHeavenPrj.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WordsHeavenPrj.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.WordsHeavenPrj.props",
+      "PackagePath": "build\\WordsHeavenPrj.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.WordsHeavenPrj.props",
+      "PackagePath": "buildMultiTargeting\\WordsHeavenPrj.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.WordsHeavenPrj.props",
+      "PackagePath": "buildTransitive\\WordsHeavenPrj.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

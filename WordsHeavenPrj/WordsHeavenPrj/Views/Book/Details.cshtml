@@ -1,0 +1,73 @@
+﻿@model WordsHeavenPrj.Models.Book
+
+@{
+    ViewData["Title"] = "Book Details";
+}
+
+<h2>Book Details</h2>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <img src="~/coverimages/@Model.CoverImagePath" alt="Cover Image" class="img-fluid" />
+        </div>
+        <div class="col-md-8">
+            <h3>@Model.Title</h3>
+            <p><strong>Author:</strong> @Model.Author</p>
+            <p><strong>Description:</strong> @Model.Description</p>
+            <p><strong>Category:</strong> @Model.Category?.Name</p>
+            <p><strong>PDF File:</strong> <a href="~/pdffiles/@Model.PdfFilePath">Download PDF</a></p>
+            <div class="mt-3">
+                <a asp-action="EditBook" asp-route-id="@Model.Id" class="btn btn-warning">Edit</a>
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-md-12">
+            <h4>Synopsis</h4>
+            <p>@Model.Description</p>
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-md-12">
+            <h4>Related</h4>
+            <!-- Add related books here -->
+        </div>
+    </div>
+</div>
+
+<style>
+    .container {
+        margin-top: 20px;
+    }
+
+    h2, h3 {
+        font-family: 'Arial', sans-serif;
+    }
+
+    p {
+        font-size: 16px;
+    }
+
+    .img-fluid {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .btn {
+        margin-right: 10px;
+    }
+
+    h2, h3 {
+        font-size: 1.5em;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    }
+</style>

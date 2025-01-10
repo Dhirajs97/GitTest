@@ -1,0 +1,38 @@
+﻿@model IEnumerable<WordsHeavenPrj.Models.UserWithRolesViewModel>
+
+@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+<h1>Manage Users</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Email</th>
+            <th>User Name</th>
+            <th>Role</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var userWithRoles in Model)
+        {
+            <tr>
+                <td>@userWithRoles.User.Email</td>
+                <td>@userWithRoles.User.UserName</td>
+                <td>@string.Join(", ", userWithRoles.Roles)</td>
+                <td>@(userWithRoles.User.IsActive ? "Active" : "Inactive")</td>
+                <td>
+                    <a asp-action="EditUser" asp-route-id="@userWithRoles.User.Id">Edit</a> |
+                    <a asp-action="ToggleUserStatus" asp-route-id="@userWithRoles.User.Id">@(!userWithRoles.User.IsActive ? "Activate" : "Deactivate")</a> |
+                    <form asp-action="DeleteUser" method="post" style="display:inline" onsubmit="return confirm('Are you sure you want to delete this user?');">
+                        <input type="hidden" name="id" value="@userWithRoles.User.Id" />
+                        <button type="submit" class="btn btn-link">Delete</button> 
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

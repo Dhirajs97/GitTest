@@ -1,0 +1,37 @@
+﻿@model WordsHeavenPrj.Models.BookDto
+
+@{
+    ViewData["Title"] = "Add Book";
+}
+
+<h2>Add Book</h2>
+
+<form asp-action="AddBook" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Title"></label>
+        <input asp-for="Title" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Author"></label>
+        <input asp-for="Author" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+    </div>
+    <div class="form-group">
+        <label asp-for="CoverImage"></label>
+        <input asp-for="CoverImage" type="file" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="PdfFile"></label>
+        <input asp-for="PdfFile" type="file" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="CategoryId"></label>
+        <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.Categories">
+            <option value="">-- Select Category --</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Add Book</button>
+</form>

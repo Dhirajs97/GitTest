@@ -1,0 +1,25 @@
+﻿@model IEnumerable<WordsHeavenEndUser.Models.Book>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2>Books</h2>
+
+
+<div class="row">
+    @foreach (var book in Model)
+    {
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm">
+                <img src="@book.CoverImagePath" class="card-img-top" alt="@book.Title" />
+                <div class="card-body">
+                    <h5 class="card-title">@book.Title</h5>
+                    <p class="card-text">@book.Author</p>
+                    <p class="card-text">Category: @book.Category?.Name</p> <!-- Use null conditional operator -->
+                </div>
+            </div>
+        </div>
+    }
+</div>
+

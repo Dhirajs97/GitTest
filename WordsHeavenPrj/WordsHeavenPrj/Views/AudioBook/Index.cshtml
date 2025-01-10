@@ -1,0 +1,37 @@
+﻿@model IEnumerable<WordsHeavenPrj.Models.AudioBook>
+
+@{
+    ViewData["Title"] = "Audio Book List";
+}
+
+<h2>Audio Book List</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Reader</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var audioBook in Model)
+        {
+            <tr>
+                <td>@audioBook.Title</td>
+                <td>@audioBook.Author</td>
+                <td>@audioBook.Reader</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@audioBook.Id" class="btn btn-info">View</a>
+                    <a asp-action="EditAudioBook" asp-route-id="@audioBook.Id" class="btn btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@audioBook.Id" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Index" asp-controller="Librarian" class="btn btn-secondary mt-3">Back to Dashboard</a>
+
+<a asp-action="AddAudioBook" class="btn btn-primary">Add New Audio Book</a>

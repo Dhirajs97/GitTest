@@ -1,0 +1,78 @@
+﻿@model IEnumerable<WordsHeavenEndUser.Models.Book>
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - WordsHeaven</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .card-img-top {
+            height: 300px;
+            object-fit: cover;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="/EndUser/Home/Index">WordsHeaven</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <form class="form-inline" method="get" action="/Books/Search">
+                        <input class="form-control mr-sm-2" type="search" name="query" placeholder="Search books..." aria-label="Search">
+                        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                    </form>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">@User.Identity.Name</a>
+                </li>
+                <li class="nav-item">
+                    <form method="post" action="/Auth/Logout" id="logoutForm"> <button type="submit" class="btn btn-link nav-link">Logout</button> </form>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container mt-5">
+        <h1 class="text-center">Welcome to the Dashboard</h1>
+        <div class="row mt-4">
+            @foreach (var book in Model)
+            {
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <a href="/Books/BookDetails/@book.Id">
+                            <img src="http://localhost:5144/coverimages/@book.CoverImagePath" class="card-img-top" alt="@book.Title">
+                        </a>
+                        <div class="card-body">
+                            <h5 class="card-title">
+                                <a href="/Books/BookDetails/@book.Id">@book.Title</a>
+                            </h5>
+                            <p class="card-text">@book.Author</p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        function logout() {
+            // Clear the JWT token from local storage or cookies
+            localStorage.removeItem('jwtToken');
+            document.cookie = 'jwtToken=;expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+            // Redirect to the logout action
+            window.location.href = '/Auth/Logout';
+        }
+    </script>
+</body>
+</html>

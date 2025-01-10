@@ -1,0 +1,1712 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\models\\editusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\models\\editusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\models\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\models\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\models\\audiobookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\models\\audiobookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\models\\audiobook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\models\\audiobook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\controllers\\audiobookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\controllers\\audiobookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\controllers\\accountapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\controllers\\accountapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\views\\audiobook\\addaudiobook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\views\\audiobook\\addaudiobook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\views\\category\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\views\\category\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\models\\userwithrolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\models\\userwithrolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\models\\userstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\models\\userstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\services\\audiobookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\services\\audiobookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\controllers\\endusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\controllers\\endusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\controllers\\librariancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\controllers\\librariancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\views\\librarian\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\views\\librarian\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\views\\audiobook\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\views\\audiobook\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\views\\category\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\views\\category\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\dtos\\enduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\dtos\\enduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\models\\enduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\models\\enduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\interfaces\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\interfaces\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\interfaces\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\interfaces\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\interfaces\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\interfaces\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\interfaces\\repositories\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\interfaces\\repositories\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\helpers\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\helpers\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\interfaces\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\interfaces\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\areas\\enduser\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\areas\\enduser\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\views\\books\\bookdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\views\\books\\bookdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\views\\books\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\views\\books\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\areas\\enduser\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\areas\\enduser\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\views\\enduser\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\views\\enduser\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\areas\\enduser\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\areas\\enduser\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\areas\\enduser\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\areas\\enduser\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\views\\enduser\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\views\\enduser\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\wordsheavenenduser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\wordsheavenenduser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\helpers\\jwttokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\helpers\\jwttokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenenduser\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C59AB9-08BB-4805-81F2-D7B8D7129300}|WordsHeavenEndUser\\WordsHeavenEndUser.csproj|solutionrelative:wordsheavenenduser\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\views\\audiobook\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\views\\audiobook\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\wordsheavenprj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\wordsheavenprj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\views\\audiobook\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\views\\audiobook\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\views\\book\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\views\\book\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\views\\audiobook\\editaudiobook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\views\\audiobook\\editaudiobook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\services\\iaudiobookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\services\\iaudiobookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\views\\book\\editbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\views\\book\\editbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\views\\admindashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\views\\admindashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\migrations\\20250103175200_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\migrations\\20250103175200_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|e:\\cdac\\8. dot net\\wordsheavenprj\\wordsheavenprj\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC25E07-7556-49B1-B01B-17D5BED3DA7D}|WordsHeavenPrj\\WordsHeavenPrj.csproj|solutionrelative:wordsheavenprj\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AudioBookDto.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Models\\AudioBookDto.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Models\\AudioBookDto.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Models\\AudioBookDto.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Models\\AudioBookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:34:40.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Models\\BaseEntity.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:51:37.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Models\\BookDto.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Models\\BookDto.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Models\\BookDto.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Models\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T06:15:12.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditUserModel.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Models\\EditUserModel.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Models\\EditUserModel.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Models\\EditUserModel.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Models\\EditUserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:16:41.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T21:11:09.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:21:02.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Controllers\\BooksController.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAA8AAACgzMzMzIwiwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T21:14:14.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Program.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Program.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Program.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Program.cs",
+              "ViewState": "AgIAAA8AAAAANDMzMzMrwBsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:32:35.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AudioBook.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Models\\AudioBook.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Models\\AudioBook.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Models\\AudioBook.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Models\\AudioBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:53:06.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAIAAABgZmZmZmYkwBMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:57:35.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Controllers\\BookController.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Controllers\\BookController.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAgwIkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:43:40.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AudioBookController.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Controllers\\AudioBookController.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Controllers\\AudioBookController.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Controllers\\AudioBookController.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Controllers\\AudioBookController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:44:14.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminDashboardController.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Controllers\\AdminDashboardController.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Controllers\\AdminDashboardController.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Controllers\\AdminDashboardController.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Controllers\\AdminDashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:50:06.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEUAAABgMzMzM7MpwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:47:13.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountApiController.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Controllers\\AccountApiController.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Controllers\\AccountApiController.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Controllers\\AccountApiController.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Controllers\\AccountApiController.cs",
+              "ViewState": "AgIAAEcAAACg//////8nwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T18:22:16.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Models\\ApplicationUser.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:56:04.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Controllers\\AdminController.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAABcAAADAZGZmZuYawBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:48:12.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddAudioBook.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\AudioBook\\AddAudioBook.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Views\\AudioBook\\AddAudioBook.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\AudioBook\\AddAudioBook.cshtml",
+              "RelativeToolTip": "WordsHeavenPrj\\Views\\AudioBook\\AddAudioBook.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T22:05:31.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Program.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Program.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Program.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Program.cs",
+              "ViewState": "AgIAADkAAAAAMzMzM7MQwHMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:19:52.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Services\\BookService.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Services\\BookService.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Services\\BookService.cs",
+              "ViewState": "AgIAAGgAAACAlpmZmdkvwHYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:58:06.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Models\\Category.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Models\\Category.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:52:18.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "WordsHeavenPrj\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T07:16:18.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAEsAAAAAMzMzMzMfwFYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:42:43.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Book\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Views\\Book\\Delete.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Book\\Delete.cshtml",
+              "RelativeToolTip": "WordsHeavenPrj\\Views\\Book\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T09:04:01.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Services\\CategoryService.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Services\\CategoryService.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAB8AAABgZmZmZmYswC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:50:57.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Views\\Book\\Index.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "WordsHeavenPrj\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T14:36:23.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Book\\Details.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Views\\Book\\Details.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Book\\Details.cshtml",
+              "RelativeToolTip": "WordsHeavenPrj\\Views\\Book\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T06:42:55.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:54:22.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Services\\ICategoryService.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:49:22.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddCategory.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Category\\AddCategory.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Views\\Category\\AddCategory.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Category\\AddCategory.cshtml",
+              "RelativeToolTip": "WordsHeavenPrj\\Views\\Category\\AddCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T22:09:13.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AudioBookService.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Services\\AudioBookService.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Services\\AudioBookService.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Services\\AudioBookService.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Services\\AudioBookService.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAgwHYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:58:54.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Services\\IBookService.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Services\\IBookService.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Services\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:49:54.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Views\\Category\\Index.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "WordsHeavenPrj\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T22:10:03.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EndUserController.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Controllers\\EndUserController.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Controllers\\EndUserController.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Controllers\\EndUserController.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Controllers\\EndUserController.cs",
+              "ViewState": "AgIAABsAAADg/v///78twD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:49:27.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserWithRolesViewModel.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Models\\UserWithRolesViewModel.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Models\\UserWithRolesViewModel.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Models\\UserWithRolesViewModel.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Models\\UserWithRolesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T17:46:48.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserStatus.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Models\\UserStatus.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Models\\UserStatus.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Models\\UserStatus.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Models\\UserStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:29:34.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Models\\LoginModel.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Models\\LoginModel.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:54:24.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\appsettings.json",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\appsettings.json",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\appsettings.json",
+              "RelativeToolTip": "WordsHeavenPrj\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-03T13:19:56.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LibrarianController.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Controllers\\LibrarianController.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Controllers\\LibrarianController.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Controllers\\LibrarianController.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Controllers\\LibrarianController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:50:26.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Librarian\\Index.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Views\\Librarian\\Index.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Librarian\\Index.cshtml",
+              "RelativeToolTip": "WordsHeavenPrj\\Views\\Librarian\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAANTMzMzPzvyIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T16:47:08.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WordsHeavenPrj\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T17:25:49.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Models\\RegisterModel.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:53:32.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\AudioBook\\Index.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Views\\AudioBook\\Index.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\AudioBook\\Index.cshtml",
+              "RelativeToolTip": "WordsHeavenPrj\\Views\\AudioBook\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAZmZmZmYCwCIAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T22:05:09.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Interfaces\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Interfaces\\Services\\IAuthService.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Interfaces\\Services\\IAuthService.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Interfaces\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:02:46.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Interfaces\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Interfaces\\Services\\IUserService.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Interfaces\\Services\\IUserService.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Interfaces\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:01:38.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Interfaces\\Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Interfaces\\Services\\IBookService.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Interfaces\\Services\\IBookService.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Interfaces\\Services\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T22:54:23.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EditCategory.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Category\\EditCategory.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Views\\Category\\EditCategory.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Category\\EditCategory.cshtml",
+              "RelativeToolTip": "WordsHeavenPrj\\Views\\Category\\EditCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T22:09:41.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Views\\Account\\Register.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "WordsHeavenPrj\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T17:24:22.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Services\\AuthService.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Services\\AuthService.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Services\\AuthService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:44:07.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WordsHeavenPrj\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAwAAAAgZmZmZmYawB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T17:24:05.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WordsHeavenPrj\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAACALTMzMzMLwCQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T09:46:00.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Models\\Category.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Models\\Category.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:23:21.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Services\\AuthService.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Services\\AuthService.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Services\\AuthService.cs",
+              "ViewState": "AgIAAA0AAAComZmZmZkwwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:36:56.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "WordsHeavenEndUser\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAABMAAAAAMDMzMzMbwB8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T21:20:00.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "WordsHeavenEndUser\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T21:20:56.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EndUserDto.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Dtos\\EndUserDto.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Dtos\\EndUserDto.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Dtos\\EndUserDto.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Dtos\\EndUserDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA6wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:04:16.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AuthDto.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Dtos\\AuthDto.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Dtos\\AuthDto.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Dtos\\AuthDto.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Dtos\\AuthDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:05:00.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "EndUser.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Models\\EndUser.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Models\\EndUser.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Models\\EndUser.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Models\\EndUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:44:17.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Dtos\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Dtos\\AuthResponseDto.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Dtos\\AuthResponseDto.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Dtos\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:05:55.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T21:15:38.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Review.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Models\\Review.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Models\\Review.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:45:13.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Interfaces\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Interfaces\\Repositories\\IBookRepository.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Interfaces\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Interfaces\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T22:57:26.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Interfaces\\Repositories\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Interfaces\\Repositories\\IAuthRepository.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Interfaces\\Repositories\\IAuthRepository.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Interfaces\\Repositories\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:00:13.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Helpers\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Helpers\\AutoMapperProfile.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Helpers\\AutoMapperProfile.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Helpers\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:52:47.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Helpers\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Helpers\\JwtSettings.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Helpers\\JwtSettings.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Helpers\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T21:35:29.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Interfaces\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Interfaces\\Repositories\\IUserRepository.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Interfaces\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Interfaces\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:57:22.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Areas\\EndUser\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Areas\\EndUser\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Areas\\EndUser\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "WordsHeavenEndUser\\Areas\\EndUser\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AgIAABkAAAAAMjMzMzMBwEkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T13:29:08.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Repositories\\BookRepository.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwB4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T22:58:27.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Services\\BookService.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Services\\BookService.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Services\\BookService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T22:55:32.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "BookDetails.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Views\\Books\\BookDetails.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Views\\Books\\BookDetails.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Views\\Books\\BookDetails.cshtml",
+              "RelativeToolTip": "WordsHeavenEndUser\\Views\\Books\\BookDetails.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T17:23:42.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Views\\Books\\Search.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Views\\Books\\Search.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Views\\Books\\Search.cshtml",
+              "RelativeToolTip": "WordsHeavenEndUser\\Views\\Books\\Search.cshtml",
+              "ViewState": "AgIAAAoAAABAZmZmZmYkwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T13:42:09.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Areas\\EndUser\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Areas\\EndUser\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Areas\\EndUser\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Areas\\EndUser\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAC0AAADql5mZmVk9wDwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:48:12.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WordsHeavenEndUser\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAsAAABAMjMzMzMrwBYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T21:45:20.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Views\\EndUser\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Views\\EndUser\\Home\\Index.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Views\\EndUser\\Home\\Index.cshtml",
+              "RelativeToolTip": "WordsHeavenEndUser\\Views\\EndUser\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T09:25:39.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Areas\\EndUser\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Areas\\EndUser\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Areas\\EndUser\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WordsHeavenEndUser\\Areas\\EndUser\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T11:08:55.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Areas\\EndUser\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Areas\\EndUser\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Areas\\EndUser\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WordsHeavenEndUser\\Areas\\EndUser\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T11:08:14.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Views\\EndUser\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Views\\EndUser\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Views\\EndUser\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WordsHeavenEndUser\\Views\\EndUser\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T09:48:01.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "WordsHeavenEndUser.csproj",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\WordsHeavenEndUser.csproj",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\WordsHeavenEndUser.csproj",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\WordsHeavenEndUser.csproj",
+              "RelativeToolTip": "WordsHeavenEndUser\\WordsHeavenEndUser.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-04T10:56:13.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Models\\Book.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Models\\Book.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Models\\Book.cs",
+              "ViewState": "AgIAAAIAAADAMjMzMzMrwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:21:52.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "JwtTokenHelper.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Helpers\\JwtTokenHelper.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Helpers\\JwtTokenHelper.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Helpers\\JwtTokenHelper.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Helpers\\JwtTokenHelper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:52:01.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Models\\Book.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Models\\Book.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:52:41.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\appsettings.json",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\appsettings.json",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\appsettings.json",
+              "RelativeToolTip": "WordsHeavenEndUser\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-04T19:36:16.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Repositories\\AuthRepository.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Repositories\\AuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:36:11.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Repositories\\UserRepository.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:35:50.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\Services\\UserService.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\Services\\UserService.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\Services\\UserService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:36:40.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\MiddleWare\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "WordsHeavenEndUser\\MiddleWare\\ExceptionMiddleware.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenEndUser\\MiddleWare\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "WordsHeavenEndUser\\MiddleWare\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwC4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:17:24.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\AudioBook\\Details.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Views\\AudioBook\\Details.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\AudioBook\\Details.cshtml",
+              "RelativeToolTip": "WordsHeavenPrj\\Views\\AudioBook\\Details.cshtml",
+              "ViewState": "AgIAAAQAAACAZmZmZmYgwEAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T07:42:01.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "WordsHeavenPrj.csproj",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\WordsHeavenPrj.csproj",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\WordsHeavenPrj.csproj",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\WordsHeavenPrj.csproj",
+              "RelativeToolTip": "WordsHeavenPrj\\WordsHeavenPrj.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-03T13:22:36.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "AddBook.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Book\\AddBook.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Views\\Book\\AddBook.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Book\\AddBook.cshtml",
+              "RelativeToolTip": "WordsHeavenPrj\\Views\\Book\\AddBook.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T22:03:53.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WordsHeavenPrj\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T20:33:04.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\AudioBook\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Views\\AudioBook\\Delete.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\AudioBook\\Delete.cshtml",
+              "RelativeToolTip": "WordsHeavenPrj\\Views\\AudioBook\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T08:43:10.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "EditAudioBook.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\AudioBook\\EditAudioBook.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Views\\AudioBook\\EditAudioBook.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\AudioBook\\EditAudioBook.cshtml",
+              "RelativeToolTip": "WordsHeavenPrj\\Views\\AudioBook\\EditAudioBook.cshtml",
+              "ViewState": "AgIAAAQAAAAAZmZmZmb0vyYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T22:08:16.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "IAudioBookService.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Services\\IAudioBookService.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Services\\IAudioBookService.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Services\\IAudioBookService.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Services\\IAudioBookService.cs",
+              "ViewState": "AgIAAAEAAADAMjMzMzMrwAsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:50:28.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "EditBook.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Book\\EditBook.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Views\\Book\\EditBook.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Book\\EditBook.cshtml",
+              "RelativeToolTip": "WordsHeavenPrj\\Views\\Book\\EditBook.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T22:04:25.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T17:20:49.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "WordsHeavenPrj\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAARGZmZmbWvyUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T16:46:49.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Admin\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Views\\Admin\\EditUser.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Admin\\EditUser.cshtml",
+              "RelativeToolTip": "WordsHeavenPrj\\Views\\Admin\\EditUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T21:17:21.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\AdminDashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Views\\AdminDashboard\\Index.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\AdminDashboard\\Index.cshtml",
+              "RelativeToolTip": "WordsHeavenPrj\\Views\\AdminDashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T17:08:34.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Data\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Data\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Data\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Data\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T17:51:16.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WordsHeavenPrj\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-03T19:10:25.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "20250103175200_InitialCreate.cs",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Migrations\\20250103175200_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Migrations\\20250103175200_InitialCreate.cs",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Migrations\\20250103175200_InitialCreate.cs",
+              "RelativeToolTip": "WordsHeavenPrj\\Migrations\\20250103175200_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T17:52:01.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WordsHeavenPrj\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAMzMzMzMLwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T17:28:16.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WordsHeavenPrj\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\CDAC\\8. Dot Net\\WordsHeavenPrj\\WordsHeavenPrj\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WordsHeavenPrj\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T17:21:07.135Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

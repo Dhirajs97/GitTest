@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "WordsHeavenPrj\\WordsHeavenPrj.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WordsHeavenEndUser\\WordsHeavenEndUser.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+﻿@{
+    ViewData["Title"] = "Librarian Dashboard";
+}
+
+<h1 class="text-center mb-4">Librarian Dashboard</h1>
+
+<div class="container">
+    <div class="row text-center">
+
+        <div class="col-md-6 col-lg-3 mb-4">
+            <div class="card shadow-sm border-0">
+                <div class="card-body">
+                    <h5 class="card-title">Categories</h5>
+                    <p class="card-text">Manage your categories.</p>
+                    <a href="@Url.Action("Index", "Category")" class="btn btn-primary btn-block mb-2">View Categories</a>
+                    <a href="@Url.Action("AddCategory", "Category")" class="btn btn-secondary btn-block">Add Category</a>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="col-md-6 col-lg-3 mb-4">
+            <div class="card shadow-sm border-0">
+                <div class="card-body">
+                    <h5 class="card-title">Books</h5>
+                    <p class="card-text">Manage your book collection.</p>
+                    <a href="@Url.Action("Index", "Book")" class="btn btn-primary btn-block mb-2">View Books</a>
+                    <a href="@Url.Action("AddBook", "Book")" class="btn btn-secondary btn-block">Add Book</a>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="col-md-6 col-lg-3 mb-4">
+            <div class="card shadow-sm border-0">
+                <div class="card-body">
+                    <h5 class="card-title">Audiobooks</h5>
+                    <p class="card-text">Manage your audiobook collection.</p>
+                    <a href="@Url.Action("Index", "AudioBook")" class="btn btn-primary btn-block mb-2">View Audiobooks</a>
+                    <a href="@Url.Action("AddAudioBook", "AudioBook")" class="btn btn-secondary btn-block">Add Audiobook</a>
+                </div>
+            </div>
+        </div>
+  
+
+        <div class="col-md-6 col-lg-3 mb-4">
+            <div class="card shadow-sm border-0">
+                <div class="card-body">
+                    <h5 class="card-title">Profile</h5>
+                    <p class="card-text">Manage your Profile.</p>
+                    <a href="@Url.Action("Settings", "Librarian")" class="btn btn-primary btn-block mb-2">Settings</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

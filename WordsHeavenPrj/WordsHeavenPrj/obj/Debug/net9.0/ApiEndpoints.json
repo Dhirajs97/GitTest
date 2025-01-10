@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "WordsHeavenPrj.Controllers.AccountApiController",
+    "Method": "Login",
+    "RelativePath": "api/AccountApi/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "WordsHeavenPrj.Models.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WordsHeavenPrj.Controllers.AccountApiController",
+    "Method": "Register",
+    "RelativePath": "api/AccountApi/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "WordsHeavenPrj.Models.RegisterModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
